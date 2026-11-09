@@ -9,7 +9,7 @@
  code like setting up a window class or creating the window proper are done over the wire.
 
  However with windows and macos this becomes less trivial as It would become necessary to start loading
- DLLs which with the limitation of not using include directives or libc because kind of non trivially hard.
+ DLLs which with the limitation of not using include directives or libc becomes kind of non trivially hard.
  So It has been left out for the time being.
 
 # What the application looks like
